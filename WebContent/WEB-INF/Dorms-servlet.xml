@@ -18,6 +18,8 @@
 		base-package="com.controller">
 	</context:component-scan>
 
+	<mvc:resources mapping="/styles/**" location="/styles/"/>
+	<mvc:resources mapping="/img/**" location="/img/"/>
 	<bean id='viewResolver'
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="prefix" value="/WEB-INF/" />

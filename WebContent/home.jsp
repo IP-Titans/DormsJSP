@@ -3,8 +3,8 @@
 
 <head>
     <title>Home</title>
-    <link rel="shortcut icon" href="/img/favicon.png">
-	<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/styles/style2.css" />
+    <link rel="shortcut icon" href="img/favicon.png">
+	<link rel="stylesheet" type="text/css" href="styles/style2.css" />
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
 
 

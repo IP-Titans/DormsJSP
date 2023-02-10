@@ -12,12 +12,22 @@ import databaseConnection.DbConnect;
 
 
 @Controller
+// @RequestMapping("/user")
+
 public class userController {
+
+    @RequestMapping("/registration")
+	public String ViewCart () {
+        System.out.println("######### REGISTRATION UNDER USER CONTROLLER #############");
+
+		return "registration";
+	}
 
     @RequestMapping("/register")
 	public String add(@RequestParam("first_name") String first_name, @RequestParam("last_name") String last_name, @RequestParam("email") String email, @RequestParam("password") String password) {
-		
-		int rowAffected = 0;
+        System.out.println("######### REGISTER UNDER USER CONTROLLER #############");
+
+        int rowAffected = 0;
 		
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");

@@ -13,7 +13,7 @@
     <!-- for including header files -->
     <script>
          $(function() {
-            $('#header').load('assets/header.html');
+            $('#header').load('assets/header.jsp');
          })
         </script>
     <title>Request Personal Storage</title>

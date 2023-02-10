@@ -24,6 +24,8 @@
         <url-pattern>*.js</url-pattern>
         <url-pattern>*.png</url-pattern>
         <url-pattern>*.jfif</url-pattern>
+        <url-pattern>*.html</url-pattern>
+        
 </servlet-mapping>
 	<servlet>
 		<servlet-name>Dorms</servlet-name>

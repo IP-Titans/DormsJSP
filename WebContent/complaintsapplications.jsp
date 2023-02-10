@@ -15,7 +15,7 @@
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script>
         $(function () {
-            $('#header').load('assets/SAM_header.html');
+            $('#header').load('assets/SAM_header.jsp');
         })
        //  call header file and store it in id=header
     </script>

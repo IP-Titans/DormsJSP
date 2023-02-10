@@ -128,17 +128,17 @@
     <div id="main_container">
         <h1>Registration</h1>
 
-        <form>
+        <form method = "POST" action="register">
             <div id="top_side">
 
                 <div id="first_name">
                     <h3>First Name</h3>
-                    <input type="text" class="input_field">
+                    <input type="text" class="input_field" name = "first_name">
                 </div>
 
                 <div id="last_name">
                     <h3>Last Name</h3>
-                    <input type="text" class="input_field">
+                    <input type="text" class="input_field" name = "last_name">
                 </div>
 
             </div>
@@ -147,12 +147,12 @@
 
                 <div id="email">
                     <h3>Email</h3>
-                    <input type="email" class="input_field">
+                    <input type="email" class="input_field" name = "email">
                 </div>
 
                 <div id="password">
                     <h3>Password</h3>
-                    <input type="password" class="input_field">
+                    <input type="password" class="input_field" name="password">
                 </div>
 
             </div>
@@ -160,7 +160,7 @@
             <br><br>
 
             <div id="button">
-                <button type="submit" formaction="login.jsp" id="sign_up_button">Sign Up</button>
+                <button type="submit"id="sign_up_button">Sign Up</button>
             </div>
 
         </form>

@@ -124,7 +124,7 @@
           font-size: 130%;
           border-radius: 5px;
           padding: 2px;
-        } */
+        } */ 
       .page-name {
         color: gold;
         font-size: 150%;

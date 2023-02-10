@@ -17,7 +17,7 @@
               <a href="facbooking.jsp">Facilities</a>
               <a href="requestPersonalStorage.jsp">Personal Storage</a>
               <a href="complaintform.jsp">Complaints</a>
-              <a href="/Applied.jsp">ِAll Applications</a>
+              <a href="Applied.jsp">All Applications</a>
 
             </div>
           </li>

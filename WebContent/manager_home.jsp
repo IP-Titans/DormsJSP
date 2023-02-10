@@ -113,7 +113,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/check_in_application.jsp"
+              formaction="check_in_application.jsp"
               id="sign_in_button"
             >
               Check In Application
@@ -125,7 +125,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/addParcel.jsp"
+              formaction="addParcel.jsp"
               id="sign_in_button"
             >
               Add Parcel
@@ -137,7 +137,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/manageStorage.jsp"
+              formaction="manageStorage.jsp"
               id="sign_in_button"
             >
               Personal Storage Requests
@@ -149,7 +149,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/facilityapplications.jsp"
+              formaction="facilityapplications.jsp"
               id="sign_in_button"
             >
               Facilities Applications
@@ -161,7 +161,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/complaintsapplications.jsp"
+              formaction="complaintsapplications.jsp"
               id="sign_in_button"
             >
               Manage Complaints
@@ -173,7 +173,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/facilityapplications.jsp"
+              formaction="facilityapplications.jsp"
               id="sign_in_button"
             >
               Facilities Applications
@@ -185,7 +185,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/managerCheckInApplications.jsp"
+              formaction="managerCheckInApplications.jsp"
               id="sign_in_button"
             >
               Check In Applications
@@ -195,7 +195,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/managerCheckOutApplications.jsp"
+              formaction="managerCheckOutApplications.jsp"
               id="sign_in_button"
             >
               Check Out Applications
@@ -207,7 +207,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/roomInspection.jsp"
+              formaction="roomInspection.jsp"
               id="sign_in_button"
             >
               Room Inspection Form
@@ -219,7 +219,7 @@
           <div id="button">
             <button
               type="submit"
-              formaction="/managerProfile.jsp"
+              formaction="managerProfile.jsp"
               id="sign_in_button"
             >
               Profile Page

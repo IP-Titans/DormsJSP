@@ -270,7 +270,7 @@
                   type="submit"
                   value="Submit"
                   class="form-submit-button"
-                  formaction="/managerCheckOutApplications.jsp"
+                  formaction="managerCheckOutApplications.jsp"
                 />
               </td>
             </tr>

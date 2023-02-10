@@ -108,14 +108,14 @@
 
             <div id="top_side">
                 <div id="button">
-                    <button type="submit" formaction="/check_in_application.jsp" id="sign_in_button">Check In
+                    <button type="submit" formaction="check_in_application.jsp" id="sign_in_button">Check In
                         Application</button>
                 </div>
 
                 <br><br>
 
                 <div id="button">
-                    <button type="submit" formaction="/check_out_application.jsp" id="sign_in_button">Check Out
+                    <button type="submit" formaction="check_out_application.jsp" id="sign_in_button">Check Out
                         Application</button>
                 </div>
 
@@ -126,21 +126,21 @@
             <div id="bottom_side">
 
                 <div id="button">
-                    <button type="submit" formaction="/payment.jsp" id="sign_in_button">Payment</button>
+                    <button type="submit" formaction="payment.jsp" id="sign_in_button">Payment</button>
                 </div>
 
                 <br><br>
 
 
                 <div id="button">
-                    <button type="submit" formaction="/studentProfile.jsp" id="sign_in_button">Profile</button>
+                    <button type="submit" formaction="studentProfile.jsp" id="sign_in_button">Profile</button>
                 </div>
 
                 <br><br>
 
 
                 <div id="button">
-                    <button type="submit" formaction="/Applied.jsp" id="sign_in_button">All Applications</button>
+                    <button type="submit" formaction="Applied.jsp" id="sign_in_button">All Applications</button>
                 </div>
 
             </div>

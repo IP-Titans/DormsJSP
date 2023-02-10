@@ -147,7 +147,7 @@
             </div>
 
             <div id="button">
-                <button type="submit" formaction="/login.jsp" id="sign_up_button">SUBMIT</button>
+                <button type="submit" formaction="login.jsp" id="sign_up_button">SUBMIT</button>
             </div>
 
 

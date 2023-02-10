@@ -111,7 +111,7 @@
   </head>
 
   <body>
-    <a href="home.html"
+    <a href="home.jsp"
       ><img
         src="img/logo2.png"
         style="

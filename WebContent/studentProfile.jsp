@@ -117,7 +117,6 @@
           display: block;
           padding: 2px;
         }
-  
         .dropdown:hover .dropbtn {
           background-color: gold;
           color: black;

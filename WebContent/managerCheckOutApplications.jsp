@@ -239,8 +239,7 @@
           <td class="table_row">10/5/2023</td>
           <td class="table_row">Approved</td>
           <td class="table_row">
-            <a class="inspect-approve-link" href="roomInspection.jsp"
-              >Inspect</a
+            <a class="inspect-approve-link" href="roomInspection.jsp">Inspect</a
             >
             /
             <a class="inspect-approve-link" href="">Approve Check-out</a>

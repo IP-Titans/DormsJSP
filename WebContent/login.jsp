@@ -140,7 +140,7 @@
         <div id="button">
           <button
             type="submit"
-            formaction="/student_home.jsp"
+            formaction="student_home.jsp"
             id="sign_in_button"
           >
             Student Sign In
@@ -152,7 +152,7 @@
         <div id="button">
           <button
             type="submit"
-            formaction="/manager_home.jsp"
+            formaction="manager_home.jsp"
             id="sign_in_button"
           >
             Manager Sign In

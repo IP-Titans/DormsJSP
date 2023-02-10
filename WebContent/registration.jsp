@@ -160,7 +160,7 @@
             <br><br>
 
             <div id="button">
-                <button type="submit" formaction="/login.jsp" id="sign_up_button">Sign Up</button>
+                <button type="submit" formaction="login.jsp" id="sign_up_button">Sign Up</button>
             </div>
 
         </form>

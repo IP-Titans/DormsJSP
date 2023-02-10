@@ -100,13 +100,13 @@
 
         <form>
             <div id="button">
-                <button type="submit" formaction="/registration.jsp" id="sign_in_button">Sign Up</button>
+                <button type="submit" formaction="registration.jsp" id="sign_in_button">Sign Up</button>
             </div>
 
             <br><br>
 
             <div id="button">
-                <button type="submit" formaction="/login.jsp" id="sign_in_button">Sign In</button>
+                <button type="submit" formaction="login.jsp" id="sign_in_button">Sign In</button>
             </div>
         </form>
     </div>

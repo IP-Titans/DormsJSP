@@ -14,7 +14,7 @@
     <!-- for including header files -->
     <script>
          $(function() {
-            $('#header').load('assets/SAM_header.html');
+            $('#header').load('assets/SAM_header.jsp');
          })
         //  call header file and store it in id=header
         </script>

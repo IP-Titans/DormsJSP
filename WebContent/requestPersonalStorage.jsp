@@ -27,7 +27,7 @@
 
         <section id="form1">
             <div class="container1">
-              <form method="POST" class="forma">
+              <form method="POST" class="forma" action= "storage/addStorage">
                     <div class="form first">
                       <div class="details personal">
                         <h1 class="booktitle">Personal Details</h1>
